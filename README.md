@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ccirc-logo.jng" alt="CCIRC Logo" width="180">
+  <img src="./ccirc-logo.jpg" alt="CCIRC Logo" width="180">
 </p>
 
 <h1 align="center">CCIRC</h1>
