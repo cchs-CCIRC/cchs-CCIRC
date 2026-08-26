@@ -40,7 +40,7 @@
 ## 📚 學習資源
 
 - [HackMD](https://hackmd.io/@ccirc)
-- 官方網站｜即將上線
+- [官方網站](https://cchs-ccirc.github.io/CCIRC-Website/)
 - [Instagram](https://www.instagram.com/cchs.ccirc115/)
 
 ---
@@ -51,7 +51,7 @@
 
 CCIRC 的官方網站，整合社團資訊、學習資源、活動紀錄與相關專案。
 
-**狀態：** 🟡 開發中
+**狀態：** 🟢 Online
 
 → [查看 Repository](https://github.com/cchs-CCIRC/CCIRC-Website)
 
