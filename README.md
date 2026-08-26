@@ -39,9 +39,11 @@
 
 ## 📚 學習資源
 
-- [HackMD](https://hackmd.io/@ccirc)
-- [官方網站](https://cchs-ccirc.github.io/CCIRC-Website/)
-- [Instagram](https://www.instagram.com/cchs.ccirc115/)
+### Online Judge
+>- [codeforces](https://codeforces.com/)
+>- [zerojudge](https://zerojudge.tw/)
+>- [cchs judge](https://judge.cchs.chc.edu.tw/)
+
 
 ---
 
