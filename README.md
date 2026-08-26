@@ -1,6 +1,16 @@
-# CCIRC
+<p align="center">
+  <img src="./ccirc-logo.jng" alt="CCIRC Logo" width="180">
+</p>
 
-### C++ Competitive Programming & Information Reading Club
+<h1 align="center">CCIRC</h1>
+
+<p align="center">
+  <strong>C++ Competitive Programming & Information Study Club</strong>
+</p>
+
+<p align="center">
+  Learn · Code · Compete
+</p>
 
 精誠高中資訊讀書會（CCIRC）是一個以 **C++ 競技程式設計**為核心的學生讀書會。
 
