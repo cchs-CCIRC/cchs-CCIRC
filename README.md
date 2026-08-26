@@ -18,7 +18,7 @@
 
 ---
 
-## 💻 What We Do
+## 💻 我們在做什麼
 
 - C++ 程式設計
 - 演算法與資料結構
@@ -30,34 +30,39 @@
 
 ---
 
-## 📚 Learning Resources
+## 📚 學習資源
 
-- [Official Website](#)
+- [HackMD](https://hackmd.io/@ccirc)
+- 官方網站｜即將上線
 - [Instagram](https://www.instagram.com/cchs.ccirc115/)
 
 ---
 
-## 🚀 Projects
+## 🚀 專案
 
-### CCIRC Website
+### 🌐 CCIRC 官方網站
 
-Our official website for CCIRC resources, activities, and information.
+CCIRC 的官方網站，整合社團資訊、學習資源、活動紀錄與相關專案。
 
-> Website link coming soon.
+**狀態：** 🟡 開發中
+
+→ [查看 Repository](https://github.com/cchs-CCIRC/CCIRC-Website)
 
 ---
 
 ## 🐙 GitHub
 
-This account is maintained as the official GitHub account of CCIRC.
-
-We use GitHub to manage our website, projects, and open-source learning resources.
+這是 CCIRC 的官方 GitHub 帳號，用於管理社團網站、開發專案與學習資源。
 
 ---
 
-## 📱 Follow CCIRC
+## 🔗 官方連結
 
-**Instagram:** [@cchs.ccirc115](https://www.instagram.com/cchs.ccirc115/)
+| 平台 | 連結 |
+| --- | --- |
+| 🌐 官方網站 | 即將上線 |
+| 📚 HackMD | [@ccirc](https://hackmd.io/@ccirc) |
+| 📱 Instagram | [@cchs.ccirc115](https://www.instagram.com/cchs.ccirc115/) |
 
 ---
 
