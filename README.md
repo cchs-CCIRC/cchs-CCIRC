@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  ▪　　▫　　▪　　▫　　▪　　▫　　▪　　▫　　▪
+  ▣　　▪　　▫　　▪　　▫　　▪　　▫　　▪　　▫　　▪　　▣
 </p>
 
 ---
@@ -67,7 +67,7 @@ CCIRC 的官方網站，整合社團資訊、學習資源、活動紀錄與相�
 
 |◊　　　平台　　　◊|◊　　　連結　　　◊|
 | --- | --- |
-| 🌐 官方網站 | 即將上線 |
+| 🌐 官方網站 | https://cchs-ccirc.github.io/CCIRC-Website/ |
 | 📚 HackMD | [@ccirc](https://hackmd.io/@ccirc) |
 | 📱 Instagram | [@cchs.ccirc115](https://www.instagram.com/cchs.ccirc115/) |
 
