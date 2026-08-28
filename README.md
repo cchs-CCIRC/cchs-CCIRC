@@ -5,7 +5,7 @@
 <h1 align="center">CCIRC</h1>
 
 <p align="center">
-  <strong>C++ Competitive Programming & Information Study Club</strong>
+  <strong>C++ Competitive Programming</strong>
 </p>
 
 <p align="center">
@@ -19,6 +19,8 @@
 ---
 
 ## 💡 我們是誰
+
+**CCIRC** is short for Ching Cheng high school Information Reading Club
 
 **精誠高中資訊讀書會 CCIRC**是一個以 C++ 競技程式設計為核心的學生讀書會。
 
