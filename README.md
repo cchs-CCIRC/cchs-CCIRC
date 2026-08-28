@@ -77,4 +77,4 @@ CCIRC 的官方網站，整合社團資訊、學習資源、活動紀錄與相�
 
 ---
 
-### CCIRC · Learn. Code. Improve.
+> ### *Learn to code. Think deeper. Build together.*
