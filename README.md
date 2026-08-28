@@ -20,7 +20,7 @@
 
 ## 💡 我們是誰
 
-**CCIRC** is short for Ching Cheng high school Information Reading Club
+**CCIRC** is short for ***C**hing **C**heng high school **I**nformation **R**eading **C**lub*
 
 **精誠高中資訊讀書會 CCIRC**是一個以 C++ 競技程式設計為核心的學生讀書會。
 
