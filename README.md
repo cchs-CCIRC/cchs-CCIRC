@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Learn · Code · Compete
+  Learn · Code · Improve
 </p>
 
 <p align="center">
@@ -77,4 +77,4 @@ CCIRC 的官方網站，整合社團資訊、學習資源、活動紀錄與相�
 
 ---
 
-### CCIRC · Learn. Code. Compete.
+### CCIRC · Learn. Code. Improve.
