@@ -72,7 +72,7 @@ CCIRC 的官方網站，整合社團資訊、學習資源、活動紀錄與相�
 |◊　平台　◊|◊　連結　◊|
 | --- | --- |
 | 官方網站 | https://cchs-ccirc.github.io/CCIRC-Website/ |
-| Instagram | [@cchs.ccirc115](https://www.instagram.com/cchs.ccirc115/) |
+| Instagram | [@cchs_ccirc2026](https://www.instagram.com/cchs_ccirc2026/) |
 
 ---
 
